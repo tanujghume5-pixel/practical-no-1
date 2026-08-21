@@ -23,5 +23,4 @@ print("Type of name:", type(name))
 print("Type of roll_no:", type(roll_no))
 print("Type of age:", type(age))
 print("Type of marks:", type(marks))
-print("Type of is_pass:", type(is_pass))# Auto detect text files and perform LF normalization
-* text=auto
+print("Type of is_pass:", type(is_pass))
